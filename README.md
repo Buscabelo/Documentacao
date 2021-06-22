@@ -2,7 +2,7 @@
  
 ## 1 - Resumo
  
-O Buscabelo é uma solução que promove uma maior integração entre estabelecimentos de estética e o consumidor interessado em seus serviços. Temos o objetivo de ser uma ponte entre esses dois clientes, ajudando os consumidores na busca de serviços de estética de forma prática e os estabelecimentos a gerir melhor seu negócio.
+O Buscabelo é uma aplicação web que promove uma maior integração entre estabelecimentos de estética e o consumidor interessado em seus serviços. Temos o objetivo de ser uma ponte entre esses dois clientes, ajudando os consumidores na busca de serviços de estética de forma prática e os estabelecimentos a gerir melhor seu negócio.
  
 ## 2 - Clientes
  
